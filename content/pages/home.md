@@ -11,7 +11,7 @@ blocks:
         icon: true
         link: /posts
     image:
-      src: https://i.imgur.com/xqrRlW6.png
+      src: /uploads/ngoklogo4.png
       alt: >-
         Ngok AI
     color: tint
