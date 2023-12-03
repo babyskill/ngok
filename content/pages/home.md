@@ -13,7 +13,8 @@ blocks:
     image:
       src: /uploads/ngoklogo4.png
       alt: >-
-        Ngok AI
+        Photo of palm trees at sunset by Adam Birkett -
+        unsplash.com/photos/75EFpyXu3Wg
     color: tint
     _template: hero
   - quote: Ngốk đã giúp tôi vận hành doanh nghiệp tốt hơn rất nhiều
