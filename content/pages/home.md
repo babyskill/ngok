@@ -3,8 +3,8 @@ title: Tina Cloud Starter
 blocks:
   - headline: Chào mừng đến với Ngok AI
     text: >
-      Phổ cập A.I tới tất cả mọi người, Ngốk AI sinh ra với mục tiêu giúp người
-      ngốc nhất cũng có thể sử dụng được AI.
+      Phổ cập A.I tới tất cả mọi người, Ngốk AI sinh ra để giúp người ngốc nhất
+      cũng có thể sử dụng được AI.
     actions:
       - label: Chat Ngốk
         type: button
