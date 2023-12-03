@@ -11,10 +11,9 @@ blocks:
         icon: true
         link: /posts
     image:
-      src: /uploads/logo3.png
+      src: https://i.imgur.com/xqrRlW6.png
       alt: >-
-        Photo of palm trees at sunset by Adam Birkett -
-        unsplash.com/photos/75EFpyXu3Wg
+        Ngok AI
     color: tint
     _template: hero
   - quote: Ngốk đã giúp tôi vận hành doanh nghiệp tốt hơn rất nhiều
