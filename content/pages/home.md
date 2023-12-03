@@ -9,7 +9,7 @@ blocks:
       - label: Chat Ngốk
         type: button
         icon: true
-        link: /posts
+        link: 'https://chat.openai.com/'
     image:
       src: /uploads/ngoklogo4.png
       alt: >-
