@@ -1,5 +1,5 @@
 ---
-title: Tina Cloud Starter
+title: Ngok AI - Mang AI đến gần mọi người hơn
 blocks:
   - headline: Chào mừng đến với Ngok AI
     text: >
